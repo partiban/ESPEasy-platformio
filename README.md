@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESPEasy-platformio
 
 This is an ESPEasy build environment that you can use to quickly compile ESPEasy with http://platformio.org
@@ -25,3 +26,6 @@ You can select the version you want as well. (mini/normal/testing/dev)
 
 Easy isnt it? :)
 
+=======
+# THIS REPOSITORY IS OBSOLETE, GO HERE: https://github.com/letscontrolit/ESPEasy-platformio
+>>>>>>> refs/remotes/psy0rz/master
